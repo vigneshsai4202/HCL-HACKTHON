@@ -306,15 +306,7 @@ HCL-HACKTHON/
 
 ---
 
-## 👥 Team
 
-> Built with ❤️ for the **HCL Hackathon 2026**
-
-| Member | Role |
-|--------|------|
-| **Vignesh Sai** | Full Stack Developer — Backend (Spring Boot) + Frontend (React) |
-
----
 
 ## 📄 License
 

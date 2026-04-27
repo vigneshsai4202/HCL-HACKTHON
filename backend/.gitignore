@@ -1,0 +1,44 @@
+# ========================
+# Backend - Spring Boot
+# ========================
+
+# Maven
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Maven wrapper
+.mvn/wrapper/maven-wrapper.jar
+
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+.eclipse/
+.settings/
+.project
+.classpath
+*.launch
+
+# Logs
+logs/
+*.log
+spring.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment / Secrets
+application-prod.properties
+application-local.properties
+*.env
+
+# Protect application.properties (contains DB password + Gmail credentials)
+src/main/resources/application.properties

@@ -2,7 +2,7 @@
 
 # 🏨 StayEase — Hotel Booking System
 
-### Built for HCL Hackathon 2026
+
 
 [![Java](https://img.shields.io/badge/Java-17-orange?style=for-the-badge&logo=java)](https://www.java.com)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.2.0-green?style=for-the-badge&logo=springboot)](https://spring.io/projects/spring-boot)
